@@ -157,4 +157,13 @@ Versions/
 
 ---
 
+## 👤 À propos de l'Auteur
+
+Ce micro-utilitaire a été développé avec passion par **Ki->ir->rA**, développeur indépendant spécialisé dans la création d'outils d'automatisation légers et d'interfaces web dynamiques.
+
+Si vous aimez ce script ou que vous l'utilisez dans vos projets, n'hésitez pas à laisser une ⭐️ sur ce dépôt pour soutenir le projet !
+
+- **GitHub :** [@Sylvain-G404](https://github.com/Sylvain-G404)
+- **Portfolio :** [Mon-Portfolio-Temps](https://sylvain-g404.github.io/Mon-Portfolio-Temps/)
+
 _« Automatiser pour mieux créer. »_
