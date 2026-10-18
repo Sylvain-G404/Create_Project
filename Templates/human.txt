@@ -1,8 +1,11 @@
-/* DEVELOPER  */
-Freelance: Ki->ir->rA
-GitHub: https://github.com/Sylvain-G404
-Portfolio: https://sylvain-g404.github.io/Mon-Portfolio-Temps/
+/* DEVELOPER */
+Freelance: [VOTRE_PSEUDO_OU_NOM]
+GitHub: https://github.com[VOTRE_PSEUDO_GITHUB]
+Portfolio: https://[VOTRE_PORTFOLIO].github.io/
 
 /* SITE */
-Standards: HTML5, CSS3, JavaScript
-Software: VS Code
+Standards: HTML5, CSS3, JavaScript, JSON
+Software: [VOTRE_EDITEUR_DE_CODE]
+
+/* ENGINE */
+Generated-By: CreateProject Automation Tools (v0026.10)

@@ -4,3 +4,6 @@ generate_structure.bat
 # Ignorer le fichier temporaire dans le dossier Infos
 Infos/structure_temp.txt
 Infos/Commande_CMD.txt
+
+# Ignorer le fichier temporaire dans le dossier Favicon
+Favicon/Favicon.K.sf.png

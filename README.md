@@ -33,12 +33,11 @@ Nouveau_Projet/
 │   ├── Image/
 │   ├── Icons/
 │   └── Favicon/
-│       └── Favicon.K.sf.png
-│
 ├── index.html
 ├── .gitignore               <-- (Nouveau) Initialisation Git
 ├── generate_structure.bat   <-- (Nouveau) Outil d'arborescence automatique
-└── human.txt                <-- (Nouveau) Signature secrète Ghost
+└── human.txt                <-- (Nouveau) Signature Ghost (modèle générique à compléter)
+
 ```
 
 ### 2. Gestion des Emplacements Dynamiques
@@ -137,6 +136,7 @@ node create-project.js
 - **Cartographie Système :** Intégration native de `generate_structure.bat` pour documenter instantanément l'arborescence des sous-projets.
 - **Signature Auteur :** Génération systématique du fichier `human.txt` pour intégrer les crédits de l'auteur.
 - **Blindage Admin et Moteur MSI :** Réécriture de `lancer.bat` avec isolation de l'ancre de répertoire (`%~dp0`), détection ARM64/x64, et installation automatisée du package LTS depuis les dépôts officiels.
+- **`human.txt` :** Fichier de crédits générique inclus à la racine de chaque projet. Il contient des balises prêtes à être remplies avec vos informations personnelles (Pseudo, GitHub, Portfolio) pour signer officiellement vos créations web.
 
 ### 🟡 v0026.00
 
