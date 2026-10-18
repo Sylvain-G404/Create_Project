@@ -1,5 +1,5 @@
-# Ignorer le script de génération de structure
-generate_structure.bat
+# Ignore uniquement le script exécuté à la racine du générateur
+/generate_structure.bat
 
 # Ignorer le fichier temporaire dans le dossier Infos
 Infos/structure_temp.txt
