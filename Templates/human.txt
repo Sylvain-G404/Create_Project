@@ -1,0 +1,8 @@
+/* DEVELOPER  */
+Freelance: Ki->ir->rA
+GitHub: https://github.com/Sylvain-G404
+Portfolio: https://sylvain-g404.github.io/Mon-Portfolio-Temps/
+
+/* SITE */
+Standards: HTML5, CSS3, JavaScript
+Software: VS Code

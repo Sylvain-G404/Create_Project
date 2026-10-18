@@ -1,0 +1,48 @@
+Structure du dossier pour le volume Windows
+Le numéro de série du volume est 3894-ABBE
+C:.\CreateProject
+|   .gitignore
+|   config.json
+|   create-project.js
+|   data-user.json
+|   generate_structure.bat
+|   human.txt
+|   lancer.bat
+|   README.md
+|   
++---Favicon
+|       Favicon.K.sf.png
+|       
++---Infos
+|       Commande_CMD.txt
+|       structure.txt
+|       structure_temp.txt
+|       
++---Templates
+|       .gitignore
+|       data.json
+|       generate_structure.bat
+|       human.txt
+|       index.html
+|       main.js
+|       navBar-lien.html
+|       navBar.css
+|       README.md
+|       style.css
+|       
+\---Versions
+        config-v0021.json
+        config-v0022.json
+        config-v0023.json
+        create-project-v0016.js
+        create-project-v0017.js
+        create-project-v0018.js
+        create-project-v0019.js
+        create-project-v0020.js
+        create-project-v0021.js
+        create-project-v0022.js
+        create-project-v0023.js
+        create-project-v0024.js
+        create-project-v0025.js
+        create-project-v0026.js
+        

@@ -1,0 +1,34 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #222;
+    padding: 10px 30px;
+}
+
+nav h1 {
+    color: white;
+}
+
+nav ul {
+    display: flex;
+
+    list-style: none;
+
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+
+    text-decoration: none;
+
+    font-size: 18px;
+}
+
+nav a:hover {
+
+    color: #00aaff;
+
+}

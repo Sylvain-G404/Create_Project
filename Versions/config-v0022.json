@@ -1,0 +1,48 @@
+{
+  "favoritePaths": [
+    {
+      "name": "Bureau",
+      "path": "desktop"
+    },
+    {
+      "name": "Disque C",
+      "path": "C:\\"
+    }
+  ],
+
+  "folders": [
+    "Style",
+    "JavaScript",
+    "Data",
+    "Assets",
+    "Assets/Image",
+    "Assets/Icons",
+    "Assets/Favicon"
+  ],
+
+  "files": [
+    {
+      "template": "templates/style.css",
+      "destination": "Style/style.css",
+      "name": "style.css"
+    },
+    {
+      "template": "templates/main.js",
+      "destination": "JavaScript/main.js",
+      "name": "main.js"
+    },
+    {
+      "template": "templates/data.json",
+      "destination": "Data/data.json",
+      "name": "data.json"
+    }
+  ],
+
+  "copies": [
+    {
+      "source": "Favicon/Favicon.K.sf.png",
+      "destination": "Assets/Favicon/Favicon.K.sf.png",
+      "name": "Favicon.K.sf.png"
+    }
+  ]
+}
